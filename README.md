@@ -17,8 +17,7 @@ CSV Chatbot is a Python-based command-line interface (CLI) tool that allows user
 1. Clone this repository:
    ```bash
    git clone <repository-url>
-   cd CSVloc
-   ```
+   cd CSV-chat-python   ```
 2. Install the required Python libraries:
    ```bash
    pip install -r requirements.txt
