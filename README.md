@@ -44,7 +44,8 @@ To ensure the chatbot understands your queries effectively:
   - "What is the maximum value in the `yield per hectare` column?"
 - Avoid overly complex or ambiguous queries.
 
-##Screenshots
+## Screenshots
+
 ![Screenshot 2025-05-03 173736](https://github.com/user-attachments/assets/b6cf223f-7be7-4619-8b21-51bb66a244e3)
 
 ## Example Queries
